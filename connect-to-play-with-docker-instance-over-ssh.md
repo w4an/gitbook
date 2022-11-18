@@ -1,4 +1,4 @@
-# 🐧 How to Connect SSH to PWD Running Instance
+# 🐧 Connect to play-with-docker instance  over  SSH
 
 PWD မှာရှိတဲ့ running instance ကို SSH ဝင်ဖို့အတွက် running Instance ထဲမှာ ရှိတဲ့ generate လုပ်ပြီးသား SSH rsa private key ကို အရင်ဆုံး ကူးယူဖို့လိုအပ်ပါတယ်။
 
@@ -41,4 +41,4 @@ permission ပေးပြီးပြီ ဆိုတာ နဲ့ ပြန်
 
 အဆင်ပြေပြေနဲ့ Play with Docker မှာ ရှိတဲ့ running Instance တစ်လုံးဆီကို ssh နဲ့ အလွယ်တကူ ဝင်ရောက် စမ်းသပ်လို့ ရသွားပါပြီ ။&#x20;
 
-## <mark style="color:yellow;">**Thank you for your attention.**</mark>
+## <mark style="color:yellow;">**Thanks for now , Thats all.**</mark>
