@@ -1,4 +1,4 @@
-# ☁ Table of Contents
+# ☁ How to Connect SSH to PWD Running Instance
 
 
 
@@ -14,8 +14,8 @@
 [create-new-instance.md](create-new-instance.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-connect-ssh-to-pwd-running-instance.md" %}
-[how-to-connect-ssh-to-pwd-running-instance.md](how-to-connect-ssh-to-pwd-running-instance.md)
+{% content-ref url="how-to-connect-ssh-to-pwd-running-instance-1.md" %}
+[how-to-connect-ssh-to-pwd-running-instance-1.md](how-to-connect-ssh-to-pwd-running-instance-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="about.md" %}
